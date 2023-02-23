@@ -1,6 +1,5 @@
 /* eslint-disable dot-notation */
-const apiHost = 'http://localhost:3000';
-// const apiHost = 'https://github.com/nelmsal/sf-building-permits-web-map'
+const apiHost = 'https://nelmsal.github.io/sf-building-permits-web-map'
 
 /**
  This map is a companion piece to my capstone project:
